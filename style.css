@@ -23,3 +23,6 @@ img {
 .blue-button:hover {
     background: #3cb0fd;
 }
+input {
+    width:500px;
+}
