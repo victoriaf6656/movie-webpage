@@ -1,0 +1,24 @@
+div {
+    text-align:center;
+    width: 1000px;
+    background-color: #e9e9e9;
+    left:0;
+    right:0;
+}
+body {
+     font-size: 24px;
+     font-family: Arial;
+     line-height:1.5px;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+img {
+    float:right;
+    
+}
+.blue-button:hover {
+    background: #3cb0fd;
+}
