@@ -16,8 +16,8 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 img {
-    float:right;
-    
+    float: right;
+    height:100px;
 }
 .blue-button:hover {
     background: #3cb0fd;
