@@ -1,18 +1,18 @@
 div {
     text-align:center;
-    width: 1000px;
-    background-color: #e9e9e9;
     left:0;
     right:0;
     font-family:Palatina;
+    position:relative;
 }
 body {
      font-size: 17px;
-     font-family: Arial;
+     font-family: Trebuchet;
      line-height:1.5px;
+     background:linear-gradient(lightblue,gray);
 }
 hr {
-    border: 0;
+    border-color: #778899;
     height: 1px;
     background: #333;
     
@@ -24,8 +24,15 @@ img {
 }
 #comments{
     width:650px;
-    height:100px;
+    height:50px;
+    border-color:#778899;
 }
 p {
     line-height:20px;
+}
+span {
+    font-family: Helvetica;
+    font-size:13px;
+    text-align: center;
+    color:white;
 }
